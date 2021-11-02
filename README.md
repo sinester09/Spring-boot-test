@@ -14,6 +14,9 @@ For building and running the application you need:
 
 ## Running the application locally
 
+1. run graddle shell
+2. exceute main file
+3. enjoy
 
 
 Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/spring-boot/docs/current/reference/html/build-tool-plugins-maven-plugin.html) like so:
@@ -21,7 +24,7 @@ Alternatively you can use the [Spring Boot Maven plugin](https://docs.spring.io/
 ```shell
 mvn spring-boot:run
 ```
-2. Solution Diagram
+4. Solution Diagram
 
     ![Diagrama](https://blog.openreplay.com/static/eae220053d72e95dbe803496c8aac458/d2d42/s_1048F41B3AC814B927887FF3C86602B940107555916A37D85A0BACB9135A34EA_1606545347515_jwt.png)
 
